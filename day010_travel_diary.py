@@ -41,4 +41,4 @@ with open('day010_travel_diary.json','r') as file:
     trip_python=json.load(file)
     display_trip_summary(trip_python)
 
-print ('test git')
+print ('test git again')
