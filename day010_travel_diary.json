@@ -1,0 +1,11 @@
+{
+    "traveler": "Joshua",
+    "destination": "UK",
+    "days": 10,
+    "budget": 2000.0,
+    "expenses": {
+        "transportation": 200.0,
+        "food": 300.0,
+        "hotel": 200.0
+    }
+}
